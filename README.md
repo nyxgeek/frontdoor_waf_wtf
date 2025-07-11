@@ -13,3 +13,10 @@ Azure Front Door WAF has an option to perform "IP Matching" with the RemoteAddr 
 3. Run the script.
 
 <img width="775" height="810" alt="image" src="https://github.com/user-attachments/assets/e965c262-1690-4bdb-ae92-36ab3d91d15f" />
+
+
+## About
+
+Thanks to @AdmiralGold for code contributions!
+
+There is also a version of this available as the Check-FrontDoorWAF function in GraphRunner (https://github.com/dafthack/GraphRunner)
